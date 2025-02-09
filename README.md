@@ -1,10 +1,6 @@
-# Valentine's Day Interactive Website (CodeKage)
-
-Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!
+# Valentine's Day Interactive Website
 
 This code was completely created from scratch! utilising Tailwind CSS!
-
-Make this Valentine's Day unforgettable with a charming and interactive web experience. This website allows you to ask the big question, "Will you be my Valentine?" in a unique and playful manner. With cute GIFs that change with responses and dynamic "Yes" and "No" buttons, it's designed to bring a smile and possibly a "Yes!" to someone special.
 
 ## Features
 
